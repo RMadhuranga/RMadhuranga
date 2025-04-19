@@ -1,58 +1,68 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#ff5e57;">Rukmal Madhuranga</span></h1>
-<h3 align="center">💻 Full Stack Web Developer | 🌍 Based in Sri Lanka</h3>
-
+<!-- Profile Header -->
 <p align="center">
-  🚀 Building scalable web applications and exploring new technologies.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rukmal+Madhuranga;Full+Stack+Web+Developer;Open+Source+Enthusiast;Based+in+Sri+Lanka" alt="Typing SVG" />
 </p>
 
----
-
-## 🧑‍💻 About Me
+<!-- About Me -->
+## 🙋‍♂️ About Me
 
 - 🎓 **IT Undergraduate** at the University of Moratuwa
-- 🛠️ Specializing in **Web Development**, **Backend Engineering**, and **Database Design**
-- 🌱 Currently learning: `React`, `Node.js`, `MySQL`, `Flutter`, and `Docker`
+- 💻 Passionate about **Web Development**, **Backend Engineering**, and **Database Design**
+- 🌱 Currently exploring: `React`, `Node.js`, `MySQL`, `Flutter`, and `Docker`
 - 💬 Ask me about: `JavaScript`, `PHP`, `Python`, `MySQL`, `API Integration`
-- 📫 Reach me at: **rukmal@example.com**
+- 📫 Reach me at: [rukmal@example.com](mailto:rukmal@example.com)
 - ⚡ Fun Fact: I enjoy solving complex problems and turning ideas into reality.
 
 ---
 
-## 🛠️ Technologies & Tools
+<!-- Skills -->
+## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" alt="Linux"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmaduranga&show_icons=true&theme=dark&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaduranga&layout=compact&theme=dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rmaduranga&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaduranga&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rmaduranga&theme=gruvbox&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- Connect with Me -->
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/rukmal-madhuranga" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/rmaduranga" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/github.png" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:rukmal@example.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
