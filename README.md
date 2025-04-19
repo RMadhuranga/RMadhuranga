@@ -1,60 +1,63 @@
-<h1 align="center">Hi there! 👋 I'm Rukmal Madhuranga</h1>
-<h3 align="center">A Passionate Web Developer from Sri Lanka</h3>
+<h1 align="center">👨‍💻 Rukmal Madhuranga</h1>
+<h3 align="center">Full Stack Developer | Open Source Contributor | Tech Enthusiast</h3>
 
-<!-- Trophy Section -->
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+scalable+web+solutions;Passionate+about+clean+code;Continuous+learner;Problem+solver" alt="Typing SVG" />
+  </a>
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rmaduranga&theme=radical&margin-w=15&column=7" alt="GitHub Trophies for rmaduranga" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rmaduranga&theme=onedark&no-frame=true&margin-w=15&column=7" alt="rmaduranga's trophies" />
   </a>
 </p>
 
-<!-- Connect Section -->
-<h3 align="center">🌐 Connect with Me</h3>
+## 🛠 Tech Stack
+
 <p align="center">
-  <a href="https://linkedin.com/in/rukmal-madhuranga" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,java,spring,python,django,php,mysql,mongodb,postgres,redis,git,github,aws,docker,linux,vscode" alt="Tech Stack" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rmaduranga&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaduranga&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmaduranga&theme=radical" alt="GitHub Streak" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/rukmal-madhuranga" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/rmaduranga" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="mailto:rukmal@example.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
+  <a href="https://medium.com/@yourusername" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=medium" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="mailto:rukmal@example.com" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40" />
   </a>
 </p>
 
-<!-- Languages and Tools Section -->
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
+## 🔥 Recent Activity
 
-<!-- GitHub Stats -->
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#123] in [repository/name]
+2. 🚀 Published new article on [topic]
+3. ⭐ Starred [awesome-repo]
+4. 🛠 Fixed bug in [project]
+<!--END_SECTION:activity-->
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rmaduranga&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages for rmaduranga" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmaduranga&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats for rmaduranga" />
+  <img src="https://komarev.com/ghpvc/?username=rmaduranga&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
