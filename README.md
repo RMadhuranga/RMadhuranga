@@ -1,6 +1,6 @@
 <!-- Profile Header with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rukmal+Madhuranga;Full+Stack+Web+Developer;Open+Source+Enthusiast;Based+in+Sri+Lanka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=702963&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rukmal+Madhuranga;Full+Stack+Web+Developer;Open+Source+Enthusiast;Based+in+Sri+Lanka" alt="Typing SVG" />
 </p>
 
 <!-- About Me -->
@@ -35,9 +35,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rmaduranga&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RMadhuranga&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaduranga&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMadhuranga&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rmaduranga&theme=gruvbox&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RMadhuranga&theme=gruvbox&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
