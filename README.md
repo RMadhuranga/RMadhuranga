@@ -1,24 +1,24 @@
-<h1 align="center">👋 Hello, I'm <span style="color:#ff5e57;">Rukmal Madhuranga</span></h1>
-<h3 align="center">💻 Passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#ff5e57;">Rukmal Madhuranga</span></h1>
+<h3 align="center">💻 Full Stack Web Developer | 🌍 Based in Sri Lanka</h3>
 
 <p align="center">
-  🚀 Turning ideas into real-world applications | ❤️ Code | 🌍 Open Source Enthusiast
+  🚀 Building scalable web applications and exploring new technologies.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🎓 IT Undergraduate | University of Moratuwa
-- 🛠️ Skilled in **Web Development**, **Backend Engineering**, and **Database Design**
-- 🌱 Currently mastering: `React`, `Node.js`, `MySQL`, `Flutter`, and `Docker`
+- 🎓 **IT Undergraduate** at the University of Moratuwa
+- 🛠️ Specializing in **Web Development**, **Backend Engineering**, and **Database Design**
+- 🌱 Currently learning: `React`, `Node.js`, `MySQL`, `Flutter`, and `Docker`
 - 💬 Ask me about: `JavaScript`, `PHP`, `Python`, `MySQL`, `API Integration`
 - 📫 Reach me at: **rukmal@example.com**
-- ⚡ Fun Fact: I treat bugs like mini puzzles 🧩 and debugging is my second hobby 😄
+- ⚡ Fun Fact: I enjoy solving complex problems and turning ideas into reality.
 
 ---
 
-## 🧰 Tech Toolbox
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
@@ -33,15 +33,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rmaduranga&theme=gruvbox&no-bg=true&margin-w=10&column=6" alt="Trophies" />
-</p>
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rmaduranga&show_icons=true&theme=dark&count_private=true" height="180"/>
