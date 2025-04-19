@@ -1,6 +1,6 @@
 <!-- Profile Header with Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=702963&center=true&vCenter=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Rukmal+Madhuranga;👨‍💻+Full+Stack+Web+Developer;🌐Open+Source+Enthusiast;📍Based+in+Sri+Lanka" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=2000&color=702963&center=true&vCenter=true&width=735&lines=Hi+%F0%9F%91%8B%2C+I'm+Rukmal+Madhuranga;👨‍💻+Full+Stack+Web+Developer;🌐Open+Source+Enthusiast;📍Based+in+Sri+Lanka" alt="Typing SVG" />
 </p>
 
 <!-- About Me -->
