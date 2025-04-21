@@ -10,7 +10,7 @@
 - 💻 Passionate about **Web Development**, **Backend Engineering**, and **Database Design**
 - 🌱 Currently exploring: `React`, `Node.js`, `MySQL`, `Flutter`, and `Docker`
 - 💬 Ask me about: `JavaScript`, `PHP`, `Python`, `MySQL`, `API Integration`
-- 📫 Reach me at: [rukmal@example.com](mailto:rukmal@example.com)
+- 📫 Reach me at: [rukmalmadhurangadissanayaka@gmail.com](mailto:rukmalmadhurangadissanayaka@gmail.com)
 - ⚡ Fun Fact: I enjoy solving complex problems and turning ideas into reality.
 
 ---
